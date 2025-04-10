@@ -88,4 +88,4 @@ Solución: Usar bucles while + condiciones para forzar entradas válidas.
 
 Conclusión 
 
-Estos principios no son teóricos abstractos, sino herramientas cotidianas para construir software seguro, maintainable y colaborativo. La diferencia entre un código "que funciona" y uno profesional radica en aplicar estas prácticas deliberadamente. 
+Estos principios no son teóricos abstractos, sino herramientas cotidianas para construir software seguro, manejable y colaborativo. La diferencia entre un código "que funciona" y uno profesional radica en aplicar estas prácticas deliberadamente. 
